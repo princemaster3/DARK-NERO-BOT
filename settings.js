@@ -19,7 +19,7 @@ global.REACT_NUMBER = '94769527061'
 
 //alive logo 
 
-global.alivepic = "https://i.ibb.co/BB1DX2C/Whats-App-Image-2022-09-12-at-9-02-23-AM.jpg" //you logo key 
+global.alivepic = "https://telegra.ph/file/dfb97c4562bff246eb1f5.jpg" //you logo key 
 
 
 //chatbot on/off
