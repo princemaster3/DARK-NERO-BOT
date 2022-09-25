@@ -12,22 +12,22 @@ global.APIKeys = {
 }
 
 
-global.OWNER_REACT = '✨'
-global.REACT_NUMBER = '94769527061'
+global.OWNER_REACT = '🐍'
+global.REACT_NUMBER = '254735306047'
 
 
 
 //alive logo 
 
-global.alivepic = "https://telegra.ph/file/dfb97c4562bff246eb1f5.jpg" //you logo key 
+global.alivepic = "https://telegra.ph/file/b8f31bde1fd0896f88702.jpg" //you logo key 
 
 
 //chatbot on/off
-global.chatbot=  on //chat bot (true toon,fale to off )
+global.chatbot=  off //chat bot (true toon,fale to off )
 
 
 //aumto functioner
-global.autoTyping = true //auto tying in gc (true to on, false to off)
+global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
@@ -45,7 +45,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['769527061'] //ur owner number
+global.vcardowner = ['254735306047'] //ur owner number
 global.ownername = "✦✧✧𝐕𝐄𝐍𝐎𝐌✧✧✦ " //ur owner name
 global.ytname = "YT: ✦✧✧𝐕𝐄𝐍𝐎𝐌✧✧✦" //ur yt chanel name
 global.socialm = "GitHub: malik4041" //ur github or insta name
@@ -70,7 +70,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['769527061'] //ur premium numbers
+global.premium = ['254735306047'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
