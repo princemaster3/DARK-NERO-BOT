@@ -12,8 +12,8 @@ global.APIKeys = {
 }
 
 
-global.OWNER_REACT = '🐍'
-global.REACT_NUMBER = '254735306047'
+global.OWNER_REACT = ' 🇰🇪'
+global.REACT_NUMBER = '254768371432'
 
 
 
@@ -27,7 +27,7 @@ global.chatbot=  off //chat bot (true toon,fale to off )
 
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
@@ -46,22 +46,22 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['254735306047'] //ur owner number
-global.ownername = "✦✧✧𝐕𝐄𝐍𝐎𝐌✧✧✦ " //ur owner name
-global.ytname = "YT: ✦✧✧𝐕𝐄𝐍𝐎𝐌✧✧✦" //ur yt chanel name
-global.socialm = "GitHub: malik4041" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.ownername = "PRINCE " //ur owner name
+global.ytname = "YT: PRINCE" //ur yt chanel name
+global.socialm = "GitHub: PRINCE" //ur github or insta name
+global.location = "KENYA,THIKA" //ur location
 
 //bot bomdy 
-global.owner = ['769527061']
-global.ownertag = '769527061' //ur tag number
-global.botname = '✫✦✧✧𝐕𝐄𝐍𝐎𝐌✧✧✦✫' //ur bot name
-global.linkz = "https://github.com/malik4041/DARK-NERO-BOT.git" //your theme url which will be displayed on whatsapp
-global.websitex = "https://github.com/malik4041/DARK-NERO-BOT.git" //ur website to be displayed
-global.botscript = 'https://github.com/malik4041/DARK-NERO-BOT.git' //script link
-global.reactmoji = "🔥" //ur menu react emoji
+global.owner = ['254768371432']
+global.ownertag = '254768371432' //ur tag number
+global.botname = '✫✦✧✧PRINCE✧✧✦✫' //ur bot name
+global.linkz = "https://chat.whatsapp.com/HnDGiztcVIi1TG7uxgvSr2" //your theme url which will be displayed on whatsapp
+global.websitex = "https://github.com/princemaster2" //ur website to be displayed
+global.botscript = 'https://github.com/princemaster3/DARK-NERO-BOT.git' //script link
+global.reactmoji = "🇰🇪" //ur menu react emoji
 global.themeemoji = "🌀" //ur theme emoji
-global.packname = "✦✧✧𝐕𝐄𝐍𝐎𝐌✧✧✦ Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "✦✧✧𝐕𝐄𝐍𝐎𝐌✧✧✦" //ur sticker watermark author
+global.packname = "✦✧✧PRINCE✧✧✦ Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.author = "✦✧✧PRINCE✧✧✦" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -70,7 +70,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['254735306047'] //ur premium numbers
+global.premium = ['254768371432'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -96,19 +96,19 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin! 🇱🇰',
-    botAdmin: 'Bot Must Be Admin First! 🇱🇰',
-    owner: 'This Feature Is Only For Owner! 🇱🇰',
-    group: 'Feature Used Only For Groups! 🇱🇰',
-    private: 'Features Used Only For Private Chat! 🇱🇰',
-    bot: 'This Feature Is Only For Bot 🇱🇰',
-    wait: 'In wait 🇱🇰',
-    linkm: 'Where is the link? 🇱🇰',
+    admin: 'This Feature Is Only For Admin! 🇰🇪',
+    botAdmin: 'Bot Must Be Admin First!🇰🇪',
+    owner: 'This Feature Is Only For Owner!🇰🇪',
+    group: 'Feature Used Only For Groups!🇰🇪',
+    private: 'Features Used Only For Private Chat!🇰🇪',
+    bot: 'This Feature Is Only For Bot 🇰🇪',
+    wait: 'In wait 🇰🇪',
+    linkm: 'Where is the link? 🇰🇪',
     error: 'Error!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
-    banChat: 'The bot was banned in this group, please contact the owner to unban'
+    ban: 'You have been banned by the owner, if you want to be unbanned, chat owner. wa.me/254768371432',
+    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate wa.me/254768371432',
+    banChat: 'The bot was banned in this group, please contact the owner to unban wa.me/254768371432'
 }
     global.limitawal = {
     premium: "Infinity",
